@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saber</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **a Stock-Screener**
+- 🔭 I’m currently working on **a Trading Bot**
 
 - 🌱 I’m currently learning **AI, Machine-Learning and Deep-Learning**
 
-- 📫 How to reach me **saber.cherifi@laposte.net**
+- 📫 How to reach me **cherifi.saber.aissa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
